@@ -13,3 +13,5 @@ Sectioning elements: Define regions
 - < h1>
 - < div>
 
+# Image and Multimedia Tags
+- < img src="" width="75%"/> especifica la ubicacion en la mism etiqueta por lo que no se necesita etiqueta de cierre. src es obligatoria
