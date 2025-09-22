@@ -20,3 +20,5 @@ Sectioning elements: Define regions
 - < img src="http..." width="75%"/> especifica la ubicacion en la mism etiqueta por lo que no se necesita etiqueta de cierre. src es obligatoria
 - < a href="url de la pagina web"> </a> le haces click y te lleva a otro sitio web.
 - Hot-linking, la imagen esta almacenada en otro sitio
+
+# Lists and Tables
