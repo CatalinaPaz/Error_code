@@ -22,3 +22,6 @@ Sectioning elements: Define regions
 - Hot-linking, la imagen esta almacenada en otro sitio
 
 # Lists and Tables
+- Undordenered lists, tag: < ul> < li> ..por cada elemento..< /li> < /ul> todas las vi;etas iguales por defecto
+- Ordered list: con numeros  < ol> < li> ..por cada elemento..< /li> < /ol> 
+- 
