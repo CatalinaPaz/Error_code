@@ -27,7 +27,9 @@ Sectioning elements: Define regions
 - Podemos hacer lista de imagenes o lista anidada
 - Tablas en filas o columnas
 -   < table> < /table>
--   Contain rows < tr> < /tr> 
+-   Contain rows < tr> < /tr> filas
+-   < th> < /th> primera fila, titulos
+-   < td> < /td> otras filas
 
 <table>
   <tr>
