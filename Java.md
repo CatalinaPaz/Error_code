@@ -5,7 +5,7 @@ Metadata elements: Information about the page
 - < head>  information about the page: title, scripts, CSS
 - < title> neisted inside <head> <head> tags
 
-<img width="575" height="1267" alt="imagen" src="https://github.com/user-attachments/assets/e55f0dbf-8009-49a3-a58e-17b235f3b3af" />
+<img width="375" height="867" alt="imagen" src="https://github.com/user-attachments/assets/e55f0dbf-8009-49a3-a58e-17b235f3b3af" />
 
 
 Sectioning elements: Define regions
