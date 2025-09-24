@@ -47,7 +47,9 @@ Sectioning elements: Define regions
 
 
 # CSS para disenar pagina web
-Para mejorar la accesibilidad a los usuario
+Para mejorar la accesibilidad a los usuario, para dar ESTYLO a la pagina web APARIENCIA
+- Podemos separar el contenido con el diseno
+- Ejempli.... que tamano debe tener la etiqueta < h1>, cual sera su color
 
 
 
