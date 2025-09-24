@@ -44,7 +44,10 @@ Sectioning elements: Define regions
     <td>Spinach</td>
     <td>Bitter</td>
   </tr>
-</table>
 
 
-- 
+# CSS para disenar pagina web
+Para mejorar la accesibilidad a los usuario
+
+
+
