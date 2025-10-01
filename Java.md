@@ -100,7 +100,10 @@ Ahora cambiaremos algunos en específico
 - a = 1
 ### Strings, cadenas
 - "Hello"
-- 
+
+## Green Screen
+- <img width="20%" alt="imagen" src="https://github.com/user-attachments/assets/351d246b-8e1c-46ea-ad29-cfde89c1f77c" />
+
 
 
 
