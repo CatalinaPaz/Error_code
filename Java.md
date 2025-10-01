@@ -114,5 +114,8 @@ Ahora cambiaremos algunos en específico
 - Paso 7: Utilizar el metodo cientifico, entender cual es el problema. Si es de algoritmo volver al paso 3  si es de implementacion volver al paso 5.
 
 
+### Comando de Java
+- var x = 3; asignarle el primer valor, var es que estoy declarando una nueva variable
+- <img width="30%" alt="imagen" src="https://github.com/user-attachments/assets/81002da2-7845-4868-a7d4-3409eb3fbb31" />
 
 
