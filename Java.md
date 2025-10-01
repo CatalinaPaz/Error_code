@@ -81,7 +81,8 @@ h1 {
 Ahora cambiaremos algunos en específico 
 - Aplicando clase HTML < li class="nombre_clase">  CSS .nombre_clase {...}
 - Se utilizo por el nombre class=foodLi, ya que es un elememto de la lista que es de comida
-- Otra forma es IDs names <img width="349" height="169" alt="imagen" src="https://github.com/user-attachments/assets/5f7d0e9b-72f4-463b-a9e0-0fb59ef58512" />
+- Otra forma es IDs names
+  <img width="349" height="169" alt="imagen" src="https://github.com/user-attachments/assets/5f7d0e9b-72f4-463b-a9e0-0fb59ef58512" />
 
 
 
