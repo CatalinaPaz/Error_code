@@ -103,8 +103,13 @@ Ahora cambiaremos algunos en específico
 
 ## Green Screen
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/351d246b-8e1c-46ea-ad29-cfde89c1f77c" />
-
-
+- Paso 1: resolver una instancia a mano, ejemplo tomar 3 pixeles, algo pequeno
+- Paso 2: escribir los pasos del ejercicio hecho en el paso 1, ser preciso
+- Paso 3: encontrar patrones, pensar en que se esta repitiendo como una estructura de bucle (if/else). Si hay dificultades en este paso, volver a analizar el paso 1 y 2.
+- Paso 4: Comprobar el algooritmo de forma manual, utilizar distintas entradas
+- Paso 5: Traducirlo a codigo, ejemplo a sintaxis de JavaScript
+- Paso 6: Ejecutar el caso de prueba, si pasa o no. Si no pasa hacer el paso 7
+- Paso 7: Utilizar el metodo cientifico, entender cual es el problema. Si es de algoritmo volver al paso 3  si es de implementacion volver al paso 5.
 
 
 
