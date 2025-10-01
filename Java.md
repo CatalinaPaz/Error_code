@@ -59,5 +59,26 @@ Para mejorar la accesibilidad a los usuario, para dar ESTYLO a la pagina web APA
 - Ejempli.... que tamano debe tener la etiqueta < h1>, cual sera su color
 - Se usara para escritorio o movil?
 
+Podemos incluir CSS en una pagína web normal incluyendo las etiquetas < style> or < link> para enlazar una hoja de estylos
+
+En este ejemplo cambiamos las propiedades de h1, su alineacion y color. En este caso son todos los elementos de h1
+```
+HTML
+<h1>My favorite food</h1> 
+I like a lot of delicious food, some of my favorite are
+<ul>
+  <li>Chocolate
+  <li> Cherries
+  <li> Ice cream
+
+CSS
+h1 {
+  text-align: center;
+  color: blue;
+}
+```
+
+Ahora cambiaremos algunos en específico 
+- Aplicando clase HTML < li class="nombre_clase">  CSS .nombre_clase {...}
 
 
