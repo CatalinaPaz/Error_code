@@ -117,5 +117,6 @@ Ahora cambiaremos algunos en específico
 ### Comando de Java
 - var x = 3; asignarle el primer valor, var es que estoy declarando una nueva variable
 - <img width="30%" alt="imagen" src="https://github.com/user-attachments/assets/81002da2-7845-4868-a7d4-3409eb3fbb31" />
+- <img width="30%" alt="imagen" src="https://github.com/user-attachments/assets/a763453a-4219-4557-a28c-e7237b836a21" />
 
 
