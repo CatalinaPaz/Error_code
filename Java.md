@@ -91,5 +91,18 @@ Ahora cambiaremos algunos en específico
 - Tambien de forma exadesimal #FFD700
 
 
+## Everything ia a number
+
+- Hardware: bit (0, 1)
+- Abstracrion, saber conducir acerlerar con el pedal vs saber el funcionamiento mecanico interno para conducir
+
+### Characteres
+- a = 1
+### Strings, cadenas
+- "Hello"
+- 
+
+
+
 
 
