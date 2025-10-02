@@ -121,7 +121,8 @@ Ahora cambiaremos algunos en específico
 
 ### operando en imagenes mas pixeles
 - Obtener parametros de imagen como el alto y ancho en pixeles, como 400pixel , w=400
-- imagen  <img width="774" height="137" alt="imagen" src="https://github.com/user-attachments/assets/dbd16640-77f0-4574-a5eb-9166c071db9e" />
+- <img width="781" height="454" alt="imagen" src="https://github.com/user-attachments/assets/11e4d989-a113-4958-a926-11132fc8519a" />
+
 
 
 
