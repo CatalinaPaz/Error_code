@@ -114,12 +114,12 @@ Ahora cambiaremos algunos en específico
 - Paso 7: Utilizar el metodo cientifico, entender cual es el problema. Si es de algoritmo volver al paso 3  si es de implementacion volver al paso 5.
 
 
-### Comando de Java
+### Comando de Java, Variables
 - var x = 3; asignarle el primer valor, var es que estoy declarando una nueva variable
 - <img width="30%" alt="imagen" src="https://github.com/user-attachments/assets/81002da2-7845-4868-a7d4-3409eb3fbb31" />
 - <img width="30%" alt="imagen" src="https://github.com/user-attachments/assets/a763453a-4219-4557-a28c-e7237b836a21" />
 
-### operando en imagenes mas pixeles
+### operando en imagenes mas pixeles, Metodos
 - Obtener parametros de imagen como el alto y ancho en pixeles, como 400pixel , w=400
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/11e4d989-a113-4958-a926-11132fc8519a" />
 
