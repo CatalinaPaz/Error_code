@@ -127,7 +127,7 @@ Ahora cambiaremos algunos en específico
 
 ### Funcion, no invoca a un objeto
 - print(x)
-- Ejemplo de funcion que eleva un numero al cuadrado
+- Ejemplo de funcion que eleva un numero al cuadrado, square es el nombre d ela funcion la cual debe ser representatva para luego llamarla. Tambien se debe agregar return para que te retorne el valor la funcion creada.
 ```
 function squeare(x) {
       var ans = x * x;
