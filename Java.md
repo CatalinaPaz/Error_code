@@ -155,6 +155,8 @@ var y = square (4)
   ```
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/2f8a227b-1931-463f-9258-1a9c3d7ba0ab" />
 
+### Toma de desiciones if/else
+- 
 
 
 
