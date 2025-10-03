@@ -125,5 +125,17 @@ Ahora cambiaremos algunos en específico
 - Los metodos se invocan en un objeto, como el metodo SimpleImagen en el ojeto que es una imagen
 - Tambien se les puede dar parametros a los metodos como var pixel = fgImage.getPixel(0, 0) en coordenada x y coordenada y.
 
+### Funcion, no invoca a un objeto
+- print(x)
+
+```
+function squeare(x) {
+      var ans = x * x;
+      return ans;
+}
+var y = square (4)
+```
+
+
 
 
