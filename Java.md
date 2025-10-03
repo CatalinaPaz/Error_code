@@ -135,6 +135,9 @@ function squeare(x) {
 }
 var y = square (4)
 ```
+- Codigo en https://www.dukelearntoprogram.com/course1/example/index.php
+- <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/5692b31a-c7ba-460f-8d60-b23cf2942ec4" />
+
 
 
 
