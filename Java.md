@@ -138,6 +138,11 @@ var y = square (4)
 - Codigo en https://www.dukelearntoprogram.com/course1/example/index.php
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/5692b31a-c7ba-460f-8d60-b23cf2942ec4" />
 
+### Tipos de data
+- En este caso la imagen fgImage tiene un metodo getWidth
+- <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/0a7b4090-a431-4a2b-9272-a5053b8f5fa6" />
+- 
+- 
 
 
 
