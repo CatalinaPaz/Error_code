@@ -127,7 +127,7 @@ Ahora cambiaremos algunos en específico
 
 ### Funcion, no invoca a un objeto
 - print(x)
-
+- Ejemplo de funcion que eleva un numero al cuadrado
 ```
 function squeare(x) {
       var ans = x * x;
