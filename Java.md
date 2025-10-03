@@ -123,7 +123,7 @@ Ahora cambiaremos algunos en específico
 - Obtener parametros de imagen como el alto y ancho en pixeles, como 400pixel , w=400
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/11e4d989-a113-4958-a926-11132fc8519a" />
 - Los metodos se invocan en un objeto, como el metodo SimpleImagen en el ojeto que es una imagen
-- 
+- Tambien se les puede dar parametros a los metodos como var pixel = fgImage.getPixel(0, 0) en coordenada x y coordenada y.
 
 
 
