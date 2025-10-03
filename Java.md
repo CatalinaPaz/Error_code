@@ -141,8 +141,23 @@ var y = square (4)
 ### Tipos de data
 - En este caso la imagen fgImage tiene un metodo getWidth
 - <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/0a7b4090-a431-4a2b-9272-a5053b8f5fa6" />
-- 
-- 
+- Los tipos de variablesson por ejemplo un tipo numerico o un string
+
+
+### Loops
+- Bucle for
+- Ejemplo de recorrec cada pixel de una imagen
+- ```
+  for ( var pixel of img.values()) ) {
+      var newG = 255 - pixel.getGreen();
+      pixel.setGreen(newG);
+  }
+  ```
+- <img width="40%" alt="imagen" src="https://github.com/user-attachments/assets/2f8a227b-1931-463f-9258-1a9c3d7ba0ab" />
+
+
+
+
 
 
 
