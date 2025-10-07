@@ -158,6 +158,12 @@ var y = square (4)
 ### Toma de desiciones if/else
 - 
 
+## Creacion de paginas web interactivas
+
+### Ejemplo de una pagina
+- Creamos una pagina we con HTML+CSS
+- introducion un boton conectado a una funcionalidad
+- Introducir JavaScript para controlar el booton
 
 
 
